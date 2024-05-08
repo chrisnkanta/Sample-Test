@@ -1,3 +1,5 @@
-This is my first projest in git
+# Sample Test
+## Sample Test
+This is my first project in git
 
 Thank you!
